@@ -1,1 +1,1 @@
-First line of text
+hello, this is a new file with new text
